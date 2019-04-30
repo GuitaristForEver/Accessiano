@@ -59,7 +59,11 @@ public class ChangeColor : MonoBehaviour
 		if (_gazeAwareComponent.HasGazeFocus)
 		{
 			SetLerpColor(selectionColor);
-		}
+            if (Input.GetKeyDown("space"))
+            {
+                GetComponent<AudioSource>().Play();
+            }
+        }
 		else
 		{
 			SetLerpColor(_deselectionColor);
