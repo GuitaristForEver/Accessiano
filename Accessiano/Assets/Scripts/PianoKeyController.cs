@@ -12,7 +12,6 @@ public class PianoKeyController : MonoBehaviour
     UdpClient client; 
     int port; 
 
-    public GameObject Player; 
     bool play; 
 
     private bool isTrigger = false;
