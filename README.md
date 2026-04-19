@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="accessiano" src="https://github.com/user-attachments/assets/e1f0c71e-6e39-4f3d-bdc8-1969708e92a1" />
+
 # Accessiano
 
 Accessiano is a Unity prototype for an accessible piano experience driven by eye tracking. The project combines a simple one-octave piano layout, note samples, and Tobii eye-tracking assets so a player can focus a key with their gaze and trigger the note with the keyboard.
